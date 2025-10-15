@@ -1,1 +1,3 @@
 var fetchApi;if("function"===typeof fetch&&(fetchApi="undefined"!==typeof global&&global.fetch?global.fetch:"undefined"!==typeof window&&window.fetch?window.fetch:fetch),"undefined"!==typeof require&&"undefined"===typeof window){var f=fetchApi||require("cross-fetch");f.default&&(f=f.default),exports.default=f,module.exports=exports.default}
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="cfcaa1ba-72b4-58c1-895e-8cb0e3d5138f")}catch(e){}}();
+//# debugId=cfcaa1ba-72b4-58c1-895e-8cb0e3d5138f
