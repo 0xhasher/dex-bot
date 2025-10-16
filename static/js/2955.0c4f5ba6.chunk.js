@@ -1,0 +1,3 @@
+"use strict";(self.webpackChunkbot123=self.webpackChunkbot123||[]).push([[2955],{2955:(s,e,n)=>{n.r(e),n.d(e,{cursorSvg:()=>l});var o,r=n(4640);const l=(0,n(2872).JW)(o||(o=(0,r.A)([' <svg fill="none" viewBox="0 0 13 4">\n  <path fill="currentColor" d="M.5 0h12L8.9 3.13a3.76 3.76 0 0 1-4.8 0L.5 0Z" />\n</svg>'])))}}]);
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="5a57e3dd-7dff-507e-909d-cf7e2f217722")}catch(e){}}();
+//# debugId=5a57e3dd-7dff-507e-909d-cf7e2f217722
